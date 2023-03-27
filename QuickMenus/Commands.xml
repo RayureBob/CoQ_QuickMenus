@@ -1,0 +1,4 @@
+<commands>
+    <command ID="MissileWeaponSwapMenu" DisplayText="Missile Weapon Swap Menu" Category="Quick Menu Mod"></command>
+    <command ID="RecoilerQuickMenu" DisplayText="Recoiler Quick Menu" Category="Quick Menu Mod"></command>
+</commands>
